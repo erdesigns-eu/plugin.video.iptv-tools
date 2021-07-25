@@ -1,0 +1,202 @@
+# Kodi Media Center language file
+# Addon Name: IPTV-Tools
+# Addon id: video.iptv-tools
+# Addon Provider: ERDesigns.eu
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: contact@erdesigns.eu\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-21 22:00+0000\n"
+"Last-Translator: Ernst Reidinga <ernst@erdesigns.eu>\n"
+"Language-Team: English <https://erdesigns.eu/>\n"
+"Language: en_gb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "IPTV-Tools.com Video Addon"
+msgstr "IPTV-Tools.com Video Addon"
+
+msgctxt "Addon Description"
+msgid "IPTV-Tools is an online platform for IPTV users. This add-on enables an easy overview of the Movies and Series in your playlist."
+msgstr "IPTV-Tools is an online platform for IPTV users. This add-on enables an easy overview of the Movies and Series in your playlist."
+
+#. Titles (Addon.py)
+msgctxt "#32001"
+msgid "Movies"
+msgstr "Movies"
+
+msgctxt "#32002"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#32003"
+msgid "Account"
+msgstr "Account"
+
+#. MOVIES --------------------
+
+msgctxt "#32004"
+msgid "Now in Theaters"
+msgstr "Now in Theaters"
+
+msgctxt "#32005"
+msgid "Top rated"
+msgstr "Top rated"
+
+msgctxt "#32006"
+msgid "Popular"
+msgstr "Popular"
+
+msgctxt "#32007"
+msgid "Browse"
+msgstr "Browse"
+
+msgctxt "#32008"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#32009"
+msgid "New"
+msgstr "New"
+
+#. SERIES --------------------
+
+msgctxt "#32010"
+msgid "Now on TV"
+msgstr "Now on TV"
+
+msgctxt "#32011"
+msgid "Top rated"
+msgstr "Top rated"
+
+msgctxt "#32012"
+msgid "Popular"
+msgstr "Popular"
+
+msgctxt "#32013"
+msgid "Browse"
+msgstr "Browse"
+
+msgctxt "#32014"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#32015"
+msgid "New"
+msgstr "New"
+
+#. Sub-titles (Addon.py)
+msgctxt "#32021"
+msgid "Browse through your movies"
+msgstr "Browse through your movies"
+
+msgctxt "#32022"
+msgid "Browse through your series"
+msgstr "Browse through your series"
+
+msgctxt "#32023"
+msgid "Account information"
+msgstr "Account information"
+
+#. MOVIES --------------------
+
+msgctxt "#32024"
+msgid "These movies are now in the Cinem"
+msgstr "These movies are now in the Cinema"
+
+msgctxt "#32025"
+msgid "These movies are top rated"
+msgstr "These movies are top rated"
+
+msgctxt "#32026"
+msgid "These movies are popular right now"
+msgstr "These movies are popular right now"
+
+msgctxt "#32027"
+msgid "Browse through all the movie"
+msgstr "Browse through all the movies"
+
+msgctxt "#32028"
+msgid "Find your movie"
+msgstr "Find your movie"
+
+msgctxt "#32029"
+msgid "These movies are new in your playlist"
+msgstr "These movies are new in your playlist"
+
+#. SERIES --------------------
+
+msgctxt "#32030"
+msgid "These series are now on TV"
+msgstr "These series are now on TV"
+
+msgctxt "#32031"
+msgid "These series are top rated"
+msgstr "These series are top rated"
+
+msgctxt "#32032"
+msgid "These series are popular right now"
+msgstr "These series are popular right now"
+
+msgctxt "#32033"
+msgid "Browse through all the series"
+msgstr "Browse through all the series"
+
+msgctxt "#32034"
+msgid "Find your TV Serie"
+msgstr "Find your TV Serie"
+
+msgctxt "#32035"
+msgid "These series episodes are new in your playlist"
+msgstr "These series episodes are new in your playlist"
+
+#. Errors (Addon.py)
+msgctxt "#32101"
+msgid "Invalid Username and Password combination!"
+msgstr "Invalid Username and Password combination!"
+
+#. Labels (settings.xml)
+msgctxt "#32200"
+msgid "Account Settings"
+msgstr "Account Settings"
+
+msgctxt "#32201"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#32202"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#32203"
+msgid "Code"
+msgstr "Code"
+
+msgctxt "#32204"
+msgid "Instance.......: {}\nStart Date....: {}\nEnd Date......: {}\nSubscription Type: {}"
+msgstr "Instance.......: {}\nStart Date....: {}\nEnd Date......: {}\nSubscription Type: {}"
+
+msgctxt "#32205"
+msgid "Unknown Subscription Type"
+msgstr "Unknown Subscription Type"
+
+msgctxt "#32206"
+msgid "Unknown Playlist Type"
+msgstr "Unknown Playlist Type"
+
+msgctxt "#32207"
+msgid "Season {}"
+msgstr "Season {}"
+
+msgctxt "#32298"
+msgid "%Y-%m-%d, %H:%M:%S"
+msgstr "%Y-%m-%d, %H:%M:%S"
+
+msgctxt "#32299"
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d"

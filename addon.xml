@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.iptv-tools" name="IPTV-Tools" version="1.0" provider-name="ERDesigns.eu">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">IPTV-Tools </summary>
+		<description lang="en">Browse through Movies and Series from your IPTV playlist.</description>
+		<description lang="nl">Blader makkelijk en snel door de Films en Series in je IPTV playlist.</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum></forum>
+		<source>https://iptv-tools.com/downloads/kodi.zip</source>
+		<website>https://iptv-tools.com</website>
+		<email></email>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.png</fanart>
+		</assets>
+		<news>V1.0 Released 24-07-2021</news>
+	</extension>
+</addon>
